@@ -1,0 +1,8 @@
+requests
+google-play-scraper
+psycopg[binary]
+pandas
+SQLAlchemy
+matplotlib
+seaborn
+scipy
